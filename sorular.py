@@ -113,3 +113,4 @@ D_LİST = [
 	"Hiç yaşın hakkında yalan söyledin mi?","Telefonundan bir uygulamayı silmek zorunda olsan bu hangisi olurdu?",
 	"Gece geç saatte yaptığın en utanç verici şey nedir?","Duş almadan en uzun süre ne kadar durdun?","Hiç sahte kimlik kullandın mı?","Kırmızı halıda beraber yürümek istediğin ünlü isim kim?","Gizli aşkın kim?"
 ]
+]
