@@ -28,8 +28,8 @@ K_G = Client(
 
 # Start Buttonu İcin Def Oluşturalım :)
 def button():
-	BUTTON=[[InlineKeyboardButton(text="👨🏻‍💻 Sahibim ",url="t.me/YoungSoftware")]]
-	BUTTON+=[[InlineKeyboardButton(text="🌱 Open Source 🌱",url="https://github.com/AkinYoungSoftware/TgEglenceBot")]]
+	BUTTON=[[InlineKeyboardButton(text="👨🏻‍💻 Sahibim ",url="t.me/ondanbitmis")]]
+	BUTTON+=[[InlineKeyboardButton(text="🌱 Open Source 🌱",url="https://github.com/derdomucis/TgEglenceBot")]]
 	return InlineKeyboardMarkup(BUTTON)
 
 # Kullanıcı Start Komutunu Kullanınca Selam'layalım :)
